@@ -2,7 +2,7 @@
 - 👀 I'm Machinery Company 
 - 🌱 I’m currently updating new ui 
 - 💞️ I’m coding by <a href="https://github.com/hosseiw">@hosseiw</a>
-- 📫 How to reach me enekas.company
+- 📫 How to reach me ? enekas.company
 
 <!---
 enekas-company/enekas-company is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
